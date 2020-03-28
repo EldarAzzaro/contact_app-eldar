@@ -133,18 +133,7 @@ function render() {
   });
 }
 
-// $(".modal-form").keydown(function(e) {
-//   if (e.keyCode === 13) {
-//     $(".modal-form").toggleClass("modal-form_2");
-//     $(".main-wrapper").toggleClass("main-wrapper_2");
-//   }
-// });
 
-// $(".btn-modal").on("click", function(e) {
-//    if (e.target !== e.currentTarget) return;
-//    $(".modal-form").toggleClass("modal-form_2");
-//    $(".main-wrapper").toggleClass("main-wrapper_2");
-//  })
 
 // Поиск контактов
 
